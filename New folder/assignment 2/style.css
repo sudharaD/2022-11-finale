@@ -1,0 +1,25 @@
+.shape {
+	display: flex;
+	
+}
+
+.shape0 {
+	width: 100%;
+	border-top: 200px solid white;
+	position: absolute;
+	z-index: -1;
+}
+
+.shape1 {
+	width: 50%;
+	border-top: 200px solid green;
+	border-right: 100px solid transparent;
+}
+
+.shape2 {
+	width: 50%;
+	border-bottom: 200px solid red;
+	border-left: 100px solid transparent;
+}
+
+
